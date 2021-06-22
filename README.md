@@ -1,6 +1,9 @@
 ### Hi there , I'm Muberra👋
+
 ![Muberra's GitHub stats](https://github-readme-stats.vercel.app/api?username=muberraa&theme=vision-friendly-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muberraa&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muberraa&layout=compact&theme=vision-friendly-dark)](https://github.com/muberraa/github-readme-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=muberraa.muberraa)
 
 ### ✉️ Find me on:
