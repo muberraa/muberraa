@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muberraa&layout=compact&theme=vision-friendly-dark)](https://github.com/muberraa/github-readme-stats)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=muberraa.muberraa&style=flat-square)
+![](https://visitor-badge.laobi.icu/badge?page_id=muberraa.muberraa&style=circle)
 
 ### ✉️ Find me on:
  <a href="https://linkedin.com/in/müberra-kazak" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/1409/1409945.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
